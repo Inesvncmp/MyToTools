@@ -1,0 +1,97 @@
+.sidebar{
+    background-color: rgba(255, 255, 255, 0.74) !important;
+}
+
+body{
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: initial;
+    font-family: felixtowe;
+}
+
+@font-face{
+    font-family:'Feliwtowe';
+    src:url("./felixtowe-Regular.ttf")
+}
+
+.list-group-sidebar{
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+}
+
+.form-check-input:checked{
+    background-color: mediumorchid;
+}
+
+.btn-primary{
+    background-color: #c386fd;
+    border: none;
+    box-shadow:  5px 5px 6px  rgba(0,0,0, 0.2);
+}
+
+.btn-primary:hover{
+    background-color: #b062fc;
+    border: none;
+    box-shadow:  5px 5px 6px  rgba(0,0,0, 0.2);
+}
+
+.btn-outline-danger{
+    border-color: #ff3e8c;
+    color: #ff3e8c;
+
+}
+
+.btn-outline-danger:hover{
+    border-color: #ff3e8c;
+    color: white;
+    background-color: #ff3e8c;
+}
+
+
+.list-group-item{
+    border-radius: 0.7rem !important;
+    margin-bottom: 0.7rem;
+}
+
+.sidebar-btn{
+    font-size: large !important;
+    border-radius: 0.7rem ;
+}
+
+.pp-size{
+    width: 3.7rem !important;
+}
+
+.mg-t1{
+    margin-top: 1rem;
+}
+.mg-tb1{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.mg-tb-xs{
+    margin-top: 0.1rem;
+    margin-bottom: 0.1rem;
+}
+.mg-t3{
+    margin-top: 3rem;
+}
+.mg-b1{
+    margin-bottom: 1rem;
+}
+
+.pdng-2{
+    padding: 2rem;
+}
+.pdng-l2{
+    padding-left: 2rem;
+}
+
+.pdng-r1{
+    padding-right: 1rem;
+}
+
+.pdng-r2{
+    padding-right: 2rem;
+}

@@ -1,0 +1,43 @@
+.spc-t2 {
+    margin-top: 2rem !important;
+}
+
+.spc-b1{
+    margin-bottom: 1rem;
+}
+
+.spc-b2{
+    margin-bottom: 2rem;
+}
+
+h3 {
+    text-align: center;
+}
+
+body{
+    background-image: url("../images/bckd.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: initial;
+}
+
+.input-group-text{
+    background-color: #D469EA !important;
+    color: white;
+    border: none;
+}
+
+
+.box-shadow {
+    box-shadow: rgba(0, 0, 0, 0.20) 0px 5px 15px;
+    padding-right: 5rem;
+    padding-left: 5rem;
+    padding-top: 1rem;
+    padding-bottom: 4rem;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 13rem;
+}
+
+.box {
+    margin-top: 11.5rem;
+}
